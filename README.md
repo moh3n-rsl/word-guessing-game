@@ -1,4 +1,4 @@
-# word-guessing-game
+# Word guessing game
 
 <p><strong>Example 1:</strong> Word guessing game</p>
 
